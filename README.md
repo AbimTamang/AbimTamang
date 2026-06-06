@@ -4,16 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=AbimTamang&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-> Frontend intern from Nepal 🇳🇵 — passionate about building clean, accessible, and performant web experiences.
+> Frontend intern at a 10+ year experienced company 🏢 | Based in Kathmandu, Nepal 🇳🇵
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on an **Expense Tracker** (React + Node.js + Express)
-- 🌱 Learning **TypeScript** and **Next.js**
-- 🤝 Looking to contribute to **open source React projects**
-- 💬 Ask me about **React, HTML/CSS, JavaScript**
+- 💼 Currently interning as a **Frontend Developer**
+- 🌱 Learning **React.js, Next.js & GSAP**
+- 🤝 Looking to contribute to **open source projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 - 📍 Based in **Kathmandu, Nepal**
 
 ---
@@ -22,16 +22,26 @@
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
-**Backend & Tools**
+**Backend**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -64,17 +74,17 @@
 
 ## 🌱 Currently Learning
 
-- ⚡ TypeScript
-- 🖥 Next.js (App Router)
-- 🧩 Contributing to open source — looking for `good first issue` labels!
+- ⚛️ Deepening React.js knowledge
+- 🖥 Next.js (App Router & Server Components)
+- 🎬 GSAP animations & scroll-triggered interactions
 
 ---
 
 ## 🤝 Open Source
 
-I'm actively looking to contribute to open source projects — especially:
+Actively looking to contribute to open source — especially:
 - React UI component libraries
-- Beginner-friendly frontend tools
+- Frontend tooling & animation libraries
 - Documentation and accessibility improvements
 
 If you maintain a project and need a helping hand, feel free to reach out!
